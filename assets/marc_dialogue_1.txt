@@ -1,0 +1,6 @@
+Marc:\n\n You're the newcomer?\n\n The one the Mayor spoke of?
+You:\n\n Guess so.
+Marc:\n\n Any questions before we embark?
+You:\n\n What are those weird structures in the background?
+Marc:\n\n Our destination, ancient elvish tower ruins. \n\n  Ready?
+You:\n\n Let's go.

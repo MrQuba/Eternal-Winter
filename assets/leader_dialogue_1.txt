@@ -1,0 +1,6 @@
+Leader of the Village:\n\n Welcome, Traveler!\n\n You look as someone who can wield a sword.
+Leader of the Village:\n\n Would you like to partake in an adventure to bring an end to this eternal winter?
+You:\n\n Is this truly possible?
+Leader of the Village:\n\n We believe it is.\n\n It is worth attempting, at the very least.
+You:\n\n Count me in. When do we commence?
+Leader of the Village:\n\n On the right side of our village, there lies a field.\n\n Marc will be waiting for you there.

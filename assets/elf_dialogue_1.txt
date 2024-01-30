@@ -1,0 +1,21 @@
+Elf: \n\n Hey, all of you.\n\nWhat brings you to this towers?
+Marc: \n\n We seek to vanquish winter's grip, to revel once more in the embrace of warm sunlight.
+Elf: \n\n Do any of you comprehend the origin of this perpetual winter?
+Marc: \n\n Uhh... I don't.
+Elf: \n\n And what about you?
+You: \n\n Me neither.
+Elf: \n\n Allow me to elucidate. A human, driven by insatiable ambition. \n\n Aspired to attain the strength of gods, and in his audacity, slew one.\n\n
+Elf: \n\n Thus, shattering the delicate harmony that binds our universe.
+Elf: \n\n Consider this, had we not intervened, it would be the humans, bringing about the world's demise. \n\n Yet you, human, seek to undo what we have strived to preserve.
+Marc: \n\n We were ignorant of the consequences. We shall return from whence we came.
+You: \n\n I'll catch up to you later.
+[The rest of your team departs, leaving you alone with the elf in a heavy silence.]
+Elf: \n\n Why do you linger?
+You: \n\n I'm intrigued. How can your formidable kind salvage a world on the brink of ruin?
+Elf: \n\n Before the god's essence dissipated, we encapsulated it in eternal frost, arresting the impending cataclysm.
+You: \n\n What if someone were to release it?
+Elf: \n\n The grip of winter would relent, but the world itself would unravel. Why do you seek this knowledge?
+You: \n\n Merely out of curiosity.
+[In a blink of the eye you drew your sword and stabbed elf with it]
+Elf: W-what a...a-re you doing?
+You: Finishing what I started
